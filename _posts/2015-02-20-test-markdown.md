@@ -2,6 +2,7 @@
 layout: post
 title: Example how to use markdown
 subtitle: Each post also has a subtitle
+show-avatar: true
 ---
 
 You can write regular [markdown](http://en.wikipedia.org/wiki/Markdown) here and Jekyll will automatically convert it to a nice webpage.

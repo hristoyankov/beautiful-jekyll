@@ -2,6 +2,7 @@
 layout: page
 title: Getting started
 subtitle: How to use Beautiful Jekyll
+show-avatar: true
 ---
 
 **Beautiful Jekyll** is a ready-to-use template to make help you create an awesome Jekyll or GitHub Pages website quickly. 
